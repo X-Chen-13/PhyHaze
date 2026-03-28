@@ -1,2 +1,2 @@
 # PhyHaze
-The PyhHaze dataset can be downloaded here:https://drive.google.com/drive/folders/1YcizZLUEfjCemCwaGjP8XFhAvGln8EZI?usp=sharing
+The PyhHaze dataset can be downloaded here:https://drive.google.com/file/d/1hABPIoVCHDsxAO4BOVPfB0wO0dUQ-VJN/view?usp=drive_link
