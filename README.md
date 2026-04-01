@@ -17,8 +17,7 @@ PhyHaze/
 ```
 ## 📈 Experimental results
 ### Comparison of the generalization ability of the dataset on CUHK-CR2
-我们在3个遥感去雾数据集（DHID、LHID、PhyHaze）上，对7种主流去雾模型进行了全面的定量评估，涵盖**全参考指标（PSNR、SSIM、LPIPS、SAM）**与**无参考指标（BRISQUE）**。
-- **指标说明**：`↑` 表示数值越高越好，`↓` 表示数值越低越好；**加粗红色**为对应数据集、对应指标的最优结果。
+We conduct a comprehensive quantitative evaluation of seven mainstream dehazing models on three remote sensing dehazing datasets (DHID, LHID, PhyHaze), covering both full-reference metrics (PSNR, SSIM, LPIPS, SAM) and no-reference metrics (BRISQUE).
 
 | Method          | Dataset | PSNR↑    | SSIM↑   | LPIPS↓  | SAM↓    | BRISQUE↓ |
 |-----------------|---------|----------|---------|---------|---------|----------|
