@@ -6,11 +6,11 @@ The RAPHaze dataset can be downloaded here:https://drive.google.com/file/d/1hABP
 - **Scene coverage**：Typical remote sensing scenes such as urban, mountain, water, vegetation and buildings.
 - **Fog concentration distribution**：The three levels of light fog, medium fog and thick fog are consistent with the fog distribution law of real remote sensing imaging.
 - **Image format**: RAPHaze consists of RGB images and grayscale images. All images are stored in the "jpg" format.
-- **Data source**: The RAPHaze images are sourced from Google Earth in 2025. 
+- **Data source**: The RAPHaze images are sourced from Google Earth in 2025. The distribution of the selected regions is as follows: ![Regional map](./assets/Region.png)
 - **License**: The use of Google Earth images must comply with the "Google Earth" usage terms. All images in RAPHaze and their related annotations can only be used for academic purposes, but commercial use is prohibited.
 - **Dataset directory structure**
 ```markdown
-PhyHaze/
+RAPHaze/
 ├── train/         
 │   ├── gt/         
 │   └── hazy/      
@@ -46,7 +46,7 @@ We conduct a comprehensive quantitative evaluation of seven mainstream dehazing 
 |                 | LHID    | **12.627** | **0.480** | 0.407   | **0.069** | **0.187** |
 |                 | RAPHaze | 12.024   | 0.483   | 0.401   | 0.079   | 0.194    |
 ### Visual comparison of dehazing effect
-![去雾效果对比图](./assets/Qualitative_comparisons3.png)
+![去雾效果对比图](./assets/Qualitative_comparisons4.png)
 ### Quantitative comparison of geostatistical metrics
 | Metric | RAPH. | DHID | LHID | CUHK | RRSHID | T-cloud. | RICE |
 |--------|-------|------|------|------|--------|----------|------|
