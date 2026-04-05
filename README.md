@@ -20,7 +20,7 @@ RAPHaze/
 ```
 ## 📈 Experimental results
 ### Comparison of the generalization ability of the dataset on CUHK-CR2
-We conduct a comprehensive quantitative evaluation of seven mainstream dehazing models on three remote sensing dehazing datasets (DHID, LHID, PhyHaze), covering both full-reference metrics (PSNR, SSIM, LPIPS, SAM) and no-reference metrics (BRISQUE).
+We conduct a comprehensive quantitative evaluation of seven mainstream dehazing models on three remote sensing dehazing datasets (DHID, LHID, RAPHaze), covering both full-reference metrics (PSNR, SSIM, LPIPS, SAM) and no-reference metrics (BRISQUE).
 
 | Method          | Dataset | PSNR↑    | SSIM↑   | LPIPS↓  | SAM↓    | BRISQUE↓ |
 |-----------------|---------|----------|---------|---------|---------|----------|
