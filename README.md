@@ -2,7 +2,7 @@
 The RAPHaze dataset can be downloaded here:https://drive.google.com/file/d/1hABPIoVCHDsxAO4BOVPfB0wO0dUQ-VJN/view?usp=drive_link
 ## 📁 Dataset Introduction
 - **Number of datasets**：Ten thousand clear-fog paired remote sensing images.
-- **Spatial resolution**：480×640
+- **Spatial resolution**：
 - **Scene coverage**：Typical remote sensing scenes such as urban, mountain, water, vegetation and buildings.
 - **Fog concentration distribution**：The three levels of light fog, medium fog and thick fog are consistent with the fog distribution law of real remote sensing imaging.
 - **Image format**: RAPHaze consists of RGB images and grayscale images. All images are stored in the "jpg" format.
