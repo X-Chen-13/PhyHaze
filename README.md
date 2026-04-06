@@ -1,4 +1,5 @@
 # RAPHaze
+![RAPHaze](./assets/fog.png)
 The RAPHaze dataset can be downloaded here:https://drive.google.com/file/d/1-yfIYYsu_Xtk5mXeFkucJM4Q7puUPuWb/view?usp=sharing
 ## 📁 Dataset Introduction
 - **Number of datasets**：Ten thousand clear-fog paired remote sensing images.
